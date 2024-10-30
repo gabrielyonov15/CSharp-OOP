@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# OOP\Interfaces and Abstraction - Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\PersonInfo.dll
