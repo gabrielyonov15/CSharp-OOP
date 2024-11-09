@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# OOP\Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll
